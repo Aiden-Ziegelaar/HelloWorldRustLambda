@@ -1,0 +1,5 @@
+/target
+
+**tfstate**
+.terraform.lock.hcl
+.terraform
